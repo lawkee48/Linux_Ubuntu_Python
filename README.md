@@ -5,6 +5,7 @@
 Check if python is installed in the system:
 ```
 python --version
+python3 --version
 ```
 If not, then continue. Update and Refresh Repository Lists: 
 ```
@@ -63,8 +64,6 @@ Verify Python version:
 ```
 python --version
 ```
-
-
 
 Reference:
 How to Install Python 3 on Ubuntu 18.04 or 20.04. https://phoenixnap.com/kb/how-to-install-python-3-ubuntu
